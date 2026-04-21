@@ -1,0 +1,1 @@
+We have corrected the experimental data in the paper MFBRU-Net: Multi-scale feature fusion and boundary refining U-Net for medical image segmentation. Specifically, for example, the values of Dice and IoU in Table 8 have been swapped.
