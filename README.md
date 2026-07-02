@@ -1,1 +1,2 @@
-We have corrected the experimental data in the paper MFBRU-Net: Multi-scale feature fusion and boundary refining U-Net for medical image segmentation. Specifically, for example, the values of Dice and IoU in Table 8 have been swapped.
+We have corrected some typographical errors in the paper and made all the code publicly available.
+Kvasir-SEG CVC-ClinicDB ETIS-LARIBPOLYPDB GLAS BUSI
